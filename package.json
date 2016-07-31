@@ -1,0 +1,21 @@
+{
+  "name": "slider",
+  "version": "0.0.1",
+  "description": "Slider plugin",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Piyal",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.13.0",
+    "grunt": "^1.0.1",
+    "grunt-browser-sync": "^1.9.1",
+    "grunt-contrib-connect": "^1.0.2",
+    "grunt-contrib-uglify": "^2.0.0",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-open": "^0.2.3",
+    "grunt-sass": "^1.2.0"
+  }
+}
